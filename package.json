@@ -1,0 +1,32 @@
+{
+    "name": "forms",
+    "description": "express 通用表单处理",
+    "version": "0.0.1",
+    "homepage": "http://imagetea.com",
+    "keywords": ["validator", "forms", "input"],
+    "author": "liuqin.sheng <sliuqin@gmail.com>",
+    "main": "./lib",
+    "directories": {
+        "lib": "./lib"
+    },
+    "bugs": {
+        "mail": "",
+        "url": "http://imagetea.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "contributors": [
+    ],
+    "engines": {
+        "node": ">=0.2.2"
+    },
+    "licenses": [
+        {
+            "type": "MIT"
+            ,
+            "url": "http://github.com/chriso/node-validator/raw/master/LICENSE"
+        }
+    ]
+}
